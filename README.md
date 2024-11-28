@@ -1,1 +1,1 @@
-This repo will cover basic html and javascript projects learned from SheCodes Foundation Program. 
+This repo will cover basic HTML/CSS and Javascript projects learned from SheCodes Foundation Program. 
